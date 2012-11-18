@@ -1,10 +1,17 @@
 说明
+<<<<<<< HEAD
 
+=======
+>>>>>>> 75162e4bc910c60168fa7084269f08ba61837325
 author:changliwei
 email:changliwei07@gmail.com
 
 这是一个vim的配置文件。
+<<<<<<< HEAD
 只要把.vim(包含插件)和.vimrc文件拷贝到用户根目录下就可以了。
+=======
+只要把.vim(包含插件) 和.vimrc文件拷贝到用户根目录下就可以了。
+>>>>>>> 75162e4bc910c60168fa7084269f08ba61837325
 需要额外安装ctags。
 Debian/Ubuntu
 apt-get install -y ctags
@@ -15,4 +22,8 @@ CentOS/RHEL
 然后安装
 yum install -y ctags
 
+<<<<<<< HEAD
 或者到sourceforge搜索catgs源码编译安装。
+=======
+或者到sourceforge搜索源码编译安装。
+>>>>>>> 75162e4bc910c60168fa7084269f08ba61837325
