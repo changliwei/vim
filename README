@@ -1,0 +1,18 @@
+说明
+
+author:changliwei
+email:changliwei07@gmail.com
+
+这是一个vim的配置文件。
+只要把.vim(包含插件)和.vimrc文件拷贝到用户根目录下就可以了。
+需要额外安装ctags。
+Debian/Ubuntu
+apt-get install -y ctags
+Fedora
+yum install -y ctags
+CentOS/RHEL 
+使用第三方库epel
+然后安装
+yum install -y ctags
+
+或者到sourceforge搜索catgs源码编译安装。
