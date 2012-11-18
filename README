@@ -14,7 +14,7 @@ apt-get install -y ctags
 Fedora
 yum install -y ctags
 CentOS/RHEL 
-使用第三方库epel
+使用第三方仓库epel
 然后安装
 yum install -y ctags
 
