@@ -218,3 +218,24 @@ set completeopt=menuone,menu,longest,preview
 
 "Python support
 let g:pydiction_location = '~/.vim/pydiction/complete-dict'
+
+"autocomplete brackets
+inoremap {      {}<Left>
+inoremap {<CR>  {<CR>}<Esc>O
+inoremap {{     {
+inoremap {}     {}
+
+inoremap (      ()<Left>
+inoremap (<CR>  (<CR>)<Esc>O
+inoremap ((     (
+inoremap ()     ()
+
+inoremap [      []<Left>
+inoremap [<CR>  [<CR>]<Esc>O
+inoremap [[     [
+inoremap []     []
+
+inoremap <      <><Left>
+inoremap <<CR>  <<CR>><Esc>O
+inoremap <<     <
+inoremap <>     <>
