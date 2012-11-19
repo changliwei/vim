@@ -144,7 +144,7 @@ let g:bufExplorerDeafultHelp = 0
 let g:bufExplorerShowRelativePath = 1
 let g:bufExplorerSortBy = 'mru'
 let g:bufExplorerSplitRight = 0
-le g:bufExplorerSpliteVertical = 1
+let g:bufExplorerSpliteVertical = 1
 let g:bufExplorerSpliteVertSize = 30
 let g:bufExplorerUseCurrentWindow = 1
 autocmd BufWinEnter \[Buf\ List\] setl nonumber
