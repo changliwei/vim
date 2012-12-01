@@ -5,7 +5,7 @@ email:changliwei07@gmail.com
 
 这是一个vim的配置文件。具有语法高亮和自动候选补全功能。
 只要把文件夹.vim(包含插件) 和文件.vimrc(配置文件)拷贝到用户根目录
-然后安装ctags下就可以了。
+然后安装ctags就可以了。
 
 一定需要额外安装ctags。
 一定需要额外安装ctags。
