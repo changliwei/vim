@@ -167,7 +167,9 @@ nmap <silent> <C-F7> : CommandT<cr>
 "synatx highlight
 """"""""""""""""""""""""""""""""""""
 syntax enable
-colorscheme evening
+"colorscheme evening
+set background=dark
+colorscheme solarized
 
 """"""""""""""""""""""""""""""""""""
 " mark settings
