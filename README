@@ -4,10 +4,11 @@ author:changliwei
 email:changliwei07@gmail.com
 
 这是一个vim的配置文件。具有语法高亮和自动候选补全功能。
-只要把文件夹.vim(包含插件) 和文件.vimrc(配置文件)拷贝到用户根目录下就可以了。
+只要把文件夹.vim(包含插件) 和文件.vimrc(配置文件)拷贝到用户根目录
+然后安装ctags下就可以了。
 
-需要额外安装ctags。
-需要额外安装ctags。
+一定需要额外安装ctags。
+一定需要额外安装ctags。
 
 安装步骤:
 
@@ -29,3 +30,25 @@ email:changliwei07@gmail.com
 	git pull
 	cp -r .vim ~
 	cp -f .vimrc ~ 
+
+License
+-------
+Copyright (c) 2012 Chang Liwei
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
